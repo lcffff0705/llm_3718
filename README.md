@@ -1,3 +1,3 @@
 # llm_3718
 
-GitHub仓库(https://github.com/InternLM/Tutorial)
+InternLM GitHub仓库跳转(https://github.com/InternLM/Tutorial)
